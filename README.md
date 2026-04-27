@@ -1,1 +1,1 @@
-QX重写图标
+QX REWRITE
